@@ -3,4 +3,7 @@
 Dark color scheme for IntelliJ
 
 == Installation
-Place `Moloko.icls` file into `~/.IntelliJIdea$VERSION$/config/colors/` directory, where `$VERSION$` is your IntelliJ IDEA version (in my case it's `16`).
+
+1. Place `Moloko.icls` file into `~/.IntelliJIdea$VERSION$/config/colors/` directory, where `$VERSION$` is your IntelliJ IDEA version (in my case it's `16`).
+2. Restart IntelliJ.
+3. Apply new schema in `Settings → Editor → Colors & Fonts`.
